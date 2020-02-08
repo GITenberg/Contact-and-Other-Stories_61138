@@ -1,0 +1,32 @@
+_repo: Contact-and-Other-Stories_61138
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hart, Frances Noyes
+    aliases:
+    - Hart, Frances Newbold
+    - Noyes, Frances Newbold
+    birthdate: 1890
+    deathdate: 1943
+    gutenberg_agent_id: '35490'
+    url: http://www.gutenberg.org/2009/agents/35490
+    wikipedia: http://en.wikipedia.org/wiki/Frances_Noyes_Hart
+description: ''
+gutenberg_issued: '2020-01-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61138'
+  lccn: '23009537'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Short stories, American'
+- !lcsh 'Man-woman relationships -- Fiction'
+- GITenberg
+tableOfContents: '"Contact!" -- There was a lady -- Long distance -- Philip the Gay
+  -- Green Gardens -- Delilah -- Her Grace -- The Honourable Tony.'
+title: Contact, and Other Stories
+url: http://www.gutenberg.org/ebooks/61138
